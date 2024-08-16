@@ -4,7 +4,7 @@
   "description": "frontend-project-44",
   "main": "index.js",
   "bin": {
-    "code": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js"
   },
   "type": "module",
   "scripts": {
