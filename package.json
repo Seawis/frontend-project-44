@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "frontend-project-44",
+  "main": "index.js",
+  "bin": {
+    "code": "bin/brain-games.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seawis/frontend-project-44.git"
+  },
+  "keywords": [
+    "hexlet"
+  ],
+  "author": "Serg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seawis/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/Seawis/frontend-project-44#readme"
+}
