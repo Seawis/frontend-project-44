@@ -3,5 +3,6 @@
 
 <a href="https://codeclimate.com/github/Seawis/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/8de6bf5819b56a57f014/maintainability" /></a>
 
-<script src="https://asciinema.org/a/673549.js" id="asciicast-673549" async="true"></script>
+[![asciicast](https://asciinema.org/a/673549.svg)](https://asciinema.org/a/673549)
 
+<a href="https://asciinema.org/a/673549" target="_blank"><img src="https://asciinema.org/a/673549.svg" /></a>
