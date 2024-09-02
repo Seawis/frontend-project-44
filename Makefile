@@ -9,3 +9,6 @@ publish:
 
 lint:
 	npx eslint . --fix
+
+calc:
+	node bin/brain-calc.js
