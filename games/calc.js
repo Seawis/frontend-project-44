@@ -21,7 +21,7 @@ const questionAnswer = () => {
       break;
   }
   const question = `${a} ${c} ${b}`;
-  const result = [question, answer.toString()];
+  const result = [question, answer];
   return result;
 };
 export { mainQuestion, questionAnswer };

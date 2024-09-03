@@ -12,7 +12,7 @@ const getQuestion = (qA) => {
   while (counter < 3) {
     const mass = qA();
     const answer = readlineSync.question(`Question: ${mass[0]} \nYour answer: `);
-    if ((answer === mass[1])) {
+    if (answer === mass[1].toString()) {
       counter += 1;
       console.log('Correct!');
     } else {

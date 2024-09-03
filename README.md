@@ -8,3 +8,5 @@
 <a href="https://asciinema.org/a/673549" target="_blank"><img src="https://asciinema.org/a/673549.svg" /></a>
 
 <a href="https://asciinema.org/a/674408" target="_blank"><img src="https://asciinema.org/a/674408.svg" /></a>
+
+<a href="https://asciinema.org/a/674512" target="_blank"><img src="https://asciinema.org/a/674512.svg" /></a>
