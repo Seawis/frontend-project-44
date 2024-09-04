@@ -7,7 +7,7 @@ const questionAnswer = () => {
   const a = getRandomNumber();
   const b = getRandomNumber();
   const mass = ['+', '-', '*'];
-  const c = mass[Math.floor(Math.random() * 3)];
+  const c = mass[Math.floor(Math.random() * mass.length)];
   let answer;
   switch (c) {
     case '+':
