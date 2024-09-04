@@ -19,6 +19,7 @@ const questionAnswer = () => {
     case '*':
       answer = a * b;
       break;
+      // no default
   }
   const question = `${a} ${c} ${b}`;
   const result = [question, answer];
