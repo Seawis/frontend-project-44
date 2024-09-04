@@ -17,7 +17,7 @@ const getQuestion = (qA) => {
       console.log('Correct!');
     } else {
       console.log(`'${answer}' is wrong answer ;(. Correct answer was '${mass[1]}'.`);
-      console.log(`Let's try again, '${name}'!`);
+      console.log(`Let's try again, ${name}!`);
       return;
     }
   }
